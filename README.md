@@ -1,2 +1,2 @@
-# anamoly
-R Functions for Anamoly Detection
+# anomaly
+R Functions for Anomaly Detection
